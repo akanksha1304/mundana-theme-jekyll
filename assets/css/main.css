@@ -40,8 +40,8 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: "Segoe UI", "Helvetica Neue", "Arial";
-  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+  --font-family-sans-serif: "Prata", serif;/*"Segoe UI", "Helvetica Neue", "Arial";*/
+  --font-family-monospace: "Source Sans Pro",sans-serif;/*SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;*/ }
 
 *,
 *::before,
@@ -64,8 +64,8 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Segoe UI", "Helvetica Neue", "Arial";
-  font-size: 1rem;
+  font-family: "Prata", serif, "Segoe UI", "Helvetica Neue", "Arial";
+  font-size: 1.11rem;
   font-weight: 400;
   line-height: 1.6;
   color: #212529;
@@ -326,7 +326,7 @@ h3, .h3 {
   font-size: 1.75rem; }
 
 h4, .h4 {
-  font-size: 1.5rem; }
+  font-size: 1.6rem; }
 
 h5, .h5 {
   font-size: 1.25rem; }
@@ -336,7 +336,8 @@ h6, .h6 {
 
 .lead {
   font-size: 1.25rem;
-  font-weight: 300; }
+  color: rgb(90, 88, 88);
+  font-weight: 100; }
 
 .display-1 {
   font-size: 6rem;
@@ -7260,7 +7261,8 @@ a.text-lightblue:hover, a.text-lightblue:focus {
   color: #212529 !important; }
 
 .text-muted {
-  color: #6c757d !important; }
+  color: #60bda3 !important; }
+  /* color: #6c757d !important; } */
 
 .text-black-50 {
   color: rgba(0, 0, 0, 0.5) !important; }
