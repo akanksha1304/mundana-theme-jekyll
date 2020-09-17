@@ -1,7 +1,7 @@
 ---
 title: Trip to Cornwall - Day 4, 5 & 6 
 layout: post
-author: jane
+author: aiksa
 categories: [ travel, experience ]
 image: /assets/images/cornwall_2/title_3.jpg
 tags: [cornwall,travel, sticky]

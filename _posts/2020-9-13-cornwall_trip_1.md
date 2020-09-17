@@ -1,7 +1,7 @@
 ---
 title: Trip to Cornwall - Day 1, 2 & 3 
 layout: post
-author: jane
+author: aiksa
 categories: [ travel, experience ]
 image: assets/images/cornwall/title.jpg
 tags: [cornwall,travel]
