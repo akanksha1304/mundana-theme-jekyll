@@ -268,7 +268,7 @@ a.text-dark:hover {
 	border-radius:30px;
 	height:35px;
 	border:1px solid #eee;
-	min-width: 200px;
+	/* min-width: 200px; */
 }
 .mb-2rem {
 	margin-bottom:2rem;
