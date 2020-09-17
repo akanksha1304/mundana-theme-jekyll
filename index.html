@@ -17,10 +17,10 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-<!-- {% for post in site.posts %} 
-{% if post.tags contains "sticky" %} -->
+{% for pst in site.posts %} 
+{% if pst.tags contains "sticky" %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
-    {% assign pst = site.posts[1] %}
+    <!-- {% assign pst = site.posts[0] %} -->
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
@@ -35,17 +35,12 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
         </div>
     </div>
 </div> 
-<!-- {% endif %}
-{% endfor %} -->
+{% endif %}
+{% endfor %}
 
 
+<!-- {% endif %} endif page url is / -->
     
-
-
-{% endif %} <!--endif page url is / -->
-    
-
-
 <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
     
 <div class="row mt-3">
@@ -56,9 +51,10 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
         
 
         {% for post in paginator.posts %}
-        
-            {% include main-loop-card.html %}
-        
+            {% if post.tags contains "sticky" %}
+            {% else %}
+                {% include main-loop-card.html %}
+            {% endif %}
         {% endfor %}
         
         <div class="mt-5">
@@ -92,10 +88,10 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
         
     </div>
     
-    <div class="col-md-4">
+    <!-- <div class="col-md-4">
         {% include sidebar-featured.html %}    
     </div>
-    
+     -->
 </div>
 
 

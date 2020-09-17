@@ -297,7 +297,7 @@ a.text-dark:hover {
 		right:0;
 	}
     .jumbotron-home h1 {
-        font-family: "Prata",serif, Georgia,Times,"Times New Roman",serif;
+        font-family: Lora, "Prata",serif, Georgia,Times,"Times New Roman",serif;
         font-size: 2.4rem;
         font-weight: 600;
         line-height: 1.1;
@@ -652,12 +652,12 @@ footer {
     margin-top:10px;
 }
 article {
-	font-size:20px;
+	font-size:18px;
 	line-height:1.86;
     font-family:Lora;
 }
 .article-headline {
-    font-family: "Prata",serif,Georgia,Times,"Times New Roman",serif;
+    font-family: Lora, "Prata",serif,Georgia,Times,"Times New Roman",serif;
     font-size: 3.2rem;
     font-weight: 400;
     line-height: 1.15;

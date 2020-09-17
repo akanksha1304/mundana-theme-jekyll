@@ -64,8 +64,8 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Prata", serif, "Segoe UI", "Helvetica Neue", "Arial";
-  font-size: 1.11rem;
+  font-family: Lora,"Prata", serif, "Segoe UI", "Helvetica Neue", "Arial";
+  font-size: 1.03rem;
   font-weight: 400;
   line-height: 1.6;
   color: #212529;
@@ -335,7 +335,7 @@ h6, .h6 {
   font-size: 1rem; }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   color: rgb(90, 88, 88);
   font-weight: 100; }
 
