@@ -3,7 +3,6 @@ title: My take on the book 'In Cold Blood'
 layout: post
 author: aiksa
 categories: [ book, experience ]
-# nav-menu: true
 image: assets/images/incoldblood2.jpg
 tags: [book]
 ---

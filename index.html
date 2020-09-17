@@ -30,7 +30,11 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                 </p>
                 <a href="{{site.baseurl}}{{pst.url}}" class="btn btn-dark">Read More</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ pst.image }});">	
+            {% if pst.image%}
+                <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ pst.image }});">	
+            {%else%}
+                <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url('/mundana-theme-jekyll/assets/images/logo.jpg');">	
+            {% endif %}
             </div>
         </div>
     </div>

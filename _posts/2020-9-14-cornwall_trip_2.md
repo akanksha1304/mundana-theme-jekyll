@@ -4,7 +4,7 @@ layout: post
 author: aiksa
 categories: [ travel, experience ]
 image: /assets/images/cornwall_2/title_3.jpg
-tags: [cornwall,travel, sticky]
+tags: [cornwall,travel]
 ---
 
 <font size="5"> Day 4: Fowey & A short stop at Falmouth </font>
