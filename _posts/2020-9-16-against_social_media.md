@@ -19,4 +19,4 @@ The minor theme is seeking validation from others. Well, I am a firm believer th
 <br />
 Thus, my feeble conclusion(feeble because my analysis is not super-thorough) is that that most of the social platforms are working against the users’ interests(by inducing addiction for information consumption and social validation) rather than for the interests of users(providing productive utility and connecting people for good). Maybe that is why, in this era, when more and more people are getting connected virtually and the virtual world is getting smaller, there is more and more polarization seeping through the real world and it is becoming more of a divided place. 
 
-That is not to say that social networking does not have its own merit, it definitely does! Hopefully, in some future post, I will make a case in favor of social media(well, that is to mean by attempting to figure out ways to minimize its flaws.
+That is not to say that social networking does not have its own merit, it definitely does! Hopefully, in some future post, I will make a case in favor of social media(well, that is by attempting to figure out ways to minimize its flaws).
