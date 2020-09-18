@@ -7207,8 +7207,14 @@ a.text-light:hover, a.text-light:focus {
 .text-dark {
   color: #212529 !important; }
 
+.custom-text-dark {
+    color:  rgba(0, 0, 0, 0.5); }
+
 a.text-dark:hover, a.text-dark:focus {
   color: #0a0c0d !important; }
+
+a.custom-text-dark:hover, a.custom-text-dark:focus {
+    color: #0a0c0d !important; }
 
 .text-white {
   color: #fff !important; }

@@ -24,11 +24,11 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">{{pst.title}}</h1>
+                <h1 class="mb-3"><a href="{{site.baseurl}}{{pst.url}}" class="text-dark">{{pst.title}}</a></h1>
                 <p class="mb-3 lead">
                     {{ pst.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
-                <a href="{{site.baseurl}}{{pst.url}}" class="btn btn-dark">Read More</a>
+                <a href="{{site.baseurl}}{{pst.url}}" class="btn btn-outline-primary">Read More</a>
             </div>
             {% if pst.image%}
                 <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ pst.image }});">	
