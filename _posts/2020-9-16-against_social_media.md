@@ -2,8 +2,8 @@
 title: The case against social media
 layout: post
 author: aiksa
-categories: [ social media ]
-tags: [sticky]
+categories: [ opinions ]
+tags: [sticky, social media]
 ---
 Last night I watched a Netflix original documentary, The Social Dilemma. The documentary is about the dark side of social media, the imperious effect of social media apps on the psyche of people who are using it. Now, it really intrigues me that it was created and produced by Netflix, which itself is an (almost)addiction inducing recommendation engine. Oh, the irony! It wasn't lost on me 😄 Anyway, the issue is real, irrespective of who decides to put it out there. (another half-hearted attempt at witticism) 
 <br />

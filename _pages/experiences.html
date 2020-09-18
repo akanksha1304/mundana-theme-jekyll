@@ -1,0 +1,35 @@
+---
+title: "Experiences"
+layout: default
+permalink: "/experiences.html"
+---
+
+<div class="container">
+<h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
+    <div class="row justify-content-between">
+        <div class="col-md-12">
+        {% for category in site.categories %} 
+        {% if category[0]=='experiences'%}
+            
+          {% assign pages_list = category[1] %}
+          {% for post in pages_list %}
+          {% if post.title != null %}
+            {% if group == null or group == post.group %}
+         
+              {% include main-loop-card.html %}
+            {% endif %}
+          {% endif %}
+          {% endfor %}
+          {% assign pages_list = nil %}
+          {% assign group = nil %}
+        {% endif %}
+        {% endfor %}
+
+        </div>
+        
+    <!-- <div class="col-md-4">
+        {% include sidebar-featured.html %}    
+    </div> -->
+        
+    </div>
+</div>

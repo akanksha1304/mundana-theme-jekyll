@@ -2,9 +2,10 @@
 title: My experience with 10-days Vipassana course
 layout: post
 author: aiksa
-categories: [ experience ]
+categories: [ experiences ]
 # nav-menu: true
 image: assets/images/vip.jpg
+tags: [meditation]
 ---
 
 Well, it started three years ago when my brother, having returned from one of the 10-day courses, kept going on and on about how impressive and effective this particular meditation technique felt to him. It was as if he had stumbled upon certain new revelation about his own self and the world in the course of 10 days. It was amusing but I, having grown into a hardcore skeptic adult, upon hearing such lavish praises assumed it to be one of those myriads of meditation techniques which sure does impart forthwith peace and solace, but that wears down pretty quickly too; analogous to those drugs that give you a transitory high. Also, even though by deduction I regard meditation in itself to be a practice to improve focus, instinctively I have associated it to religious practices, and I tend to stay away from anything “religious". Nevertheless, due to my assumptions and presumptions and lack of willingness to try such strict discipline for 10 days, I didn’t even entertain the idea of giving it a try.

@@ -2,9 +2,9 @@
 title: My take on the book 'In Cold Blood' 
 layout: post
 author: aiksa
-categories: [ book, experience ]
+categories: [ opinions, experiences ]
 image: assets/images/incoldblood2.jpg
-tags: [book]
+tags: [book, in cold blood]
 ---
 
 It was my first novel of this kind. This kind, meaning - literary journalism on real-life events. Over the years, this book has been quite heavily recommended by many people, but I never looked into properly and assumed that it is just another crime novel based remotely on some real-life event, you know! Something full of suspense and spices. However, some time back while selecting a book to read I was going through my collection of to-read list, and there I saw this book again. The same routine ensued, I went and read the description of this book followed by some of the reviews.  This time I finally gave in and decided that let me get over this book (let’s see why this book might be so well recommended). Well, I don’t think that my memory is full proof, so I fancy that this is what happened. When I started reading this book and was in a few pages, I started getting enchanted by the sensation that I was reading about real-life people. This is alluring to have been imagining the characters of the book in real-life because this time they were real.
