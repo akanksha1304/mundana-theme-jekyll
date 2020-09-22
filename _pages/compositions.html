@@ -9,7 +9,7 @@ permalink: "/creations.html"
     <div class="row justify-content-between">
         <div class="col-md-12">
         {% for category in site.categories %} 
-        {% if category[0]=='creations'%}
+        {% if category[0]=='compositions'%}
             
           {% assign pages_list = category[1] %}
           {% for post in pages_list %}

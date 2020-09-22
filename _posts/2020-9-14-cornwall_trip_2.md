@@ -1,7 +1,7 @@
 ---
 title: Trip to Cornwall - Day 4, 5 & 6 
 layout: post
-author: aiksa
+author: isha
 categories: [ experiences ]
 image: /assets/images/cornwall_2/title_3.jpg
 tags: [cornwall,travel]

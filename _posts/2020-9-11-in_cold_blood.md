@@ -1,7 +1,7 @@
 ---
 title: My take on the book 'In Cold Blood' 
 layout: post
-author: aiksa
+author: isha
 categories: [ opinions, experiences ]
 image: assets/images/incoldblood2.jpg
 tags: [book, in cold blood]

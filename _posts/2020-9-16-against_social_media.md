@@ -1,7 +1,7 @@
 ---
 title: The case against social media
 layout: post
-author: aiksa
+author: isha
 categories: [ opinions ]
 tags: [sticky, social media]
 ---

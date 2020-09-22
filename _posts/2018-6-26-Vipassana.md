@@ -1,7 +1,7 @@
 ---
 title: My experience with 10-days Vipassana course
 layout: post
-author: aiksa
+author: isha
 categories: [ experiences ]
 # nav-menu: true
 image: assets/images/vip.jpg
