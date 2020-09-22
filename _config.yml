@@ -3,7 +3,7 @@ name: 'Melange'
 description: 'Assortment of ideas, opinions, perspectives, experiences & interests.'
 logo: 'assets/images/banner.jpg'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/'
+baseurl: ''
 disqus: 'demowebsite'
 email: 'isha.melange@gmail.com'
 mailchimp-list: 'https://gmail.us2.list-manage.com/subscribe/post?u=b3260b617b54b52395ff92993&amp;id=c3a5b637fa'
@@ -23,7 +23,7 @@ authors:
     isha:
       name:           Isha
       # site:           https://www.wowthemes.net
-      avatar:         /assets/images/pic1.jpg
+      avatar:         assets/images/pic1.jpg
       bio:            "Hi there! This blog is an attempt to organize my thoughts in order to understand the world better. I like to write about my experiences, thoughts, and perspectives. I love a good discussion, I like to know about different viewpoints and opinions regarding any subject matter. I would love to hear your thoughts."
       email:          isha.melange@gmail.com
       twitter:        https://twitter.com/Isha02079331
