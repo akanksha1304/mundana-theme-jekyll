@@ -1,0 +1,37 @@
+<div class="share sticky-top sticky-top-offset ">
+    <div class="text-muted">
+        Share
+    </div>
+    <ul>
+        <!-- <div class="ml-0 mr-0 d-inline-block text-center">Share</div> -->
+        <div class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </div>
+
+        <div class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </div>
+
+        <div class="ml-1 mr-1">
+            <a target="_blank" href="https://www.addtoany.com/share" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="a2a_dd"></i>            
+            </a>
+            <!-- <a class="a2a_dd" href="https://www.addtoany.com/share"></a> -->
+        </div>
+        <script async src="https://static.addtoany.com/menu/page.js"></script>
+
+    </ul>
+    <!-- {% if page.comments != false %}
+    <div class="sep">
+    </div>
+    <ul>
+        <div>
+        <a class="small smoothscroll" href="#disqus_thread"></a>
+        </div>
+    </ul>
+    {% endif %} -->
+</div>
