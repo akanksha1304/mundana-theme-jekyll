@@ -1,5 +1,5 @@
 $(function() {
     $('#author-img').on('click', function(){
-        window.location = "/mundana-theme-jekyll/authors-list.html"; 
+        window.location = "/authors-list.html"; 
     })
 });
