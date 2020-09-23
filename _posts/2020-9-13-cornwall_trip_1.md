@@ -53,12 +53,12 @@ We spent around 1.5-2 hours in Clovelly. Then we headed to our hotel to rest for
 <img src="/assets/images/cornwall/7.jpg"
      alt="cornwall west County Inn hotel"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-We were ravenous by the time we reached, so we freshened up quickly in order to go for the dinner. We are vegetarians, hence, it is not easy for us to expect great vegetarian items in most of the places(also, because the veg food options are quite limited). But we were in for a surprise this time, in fact all of the meals(vegetarians) we had on this tip was quite delicious. I love it when I can eat good food while being on a trip. That just increases the quality of my vacation.
+We were ravenous by the time we reached, so we freshened up quickly in order to go for the dinner. We are vegetarians, hence, it is not easy for us to expect great vegetarian items in most of the places (also, because the veg food options are quite limited). But we were in for a surprise this time, in fact all of the meals (vegetarians) we had on this tip was quite delicious. I love it when I can eat good food while being on a trip. That just increases the quality of my vacation.
 <br />
 <font size="5"> Day 2: St Ages, Gwithian Beach & St. Ives</font>
 The next day we headed down towards the Penzance, where our AirBnB booked for the next 5-days was waiting for us. I think we did a mistake in this case. While Airbnb we stayed at was amazing, but every day we had to drive up and down a lot to go to places like Tintagel, Fowey, etc. Something in the middle of the county might have had proved better in terms of commute.
 <br />
-On the way to our accommodation our first stop was(almost) Padstow. Padstow is supposed to be a pretty fishing village. Well, we did enter into the place and headed to the car park, but that is where misfortune stuck us. There was no space available. We tried all the car parks in that village but nothing worked out, so disappointed we had to leave. Then on the spot, we decided to visit St Agnes. We chose this because this heritage site was close(of a drive) to Padstow. It was an impromptu stop for us mostly to get over our disappointment of not being able to visit Padstow, but we were pleasantly surprised when we reached this place. What a beauty nestled in a valley surrounded by magnificent hills! The driving was scary, for sure! as it quite a steep narrow road down the valley, but definitely well worth it.
+On the way to our accommodation our first stop was (almost) Padstow. Padstow is supposed to be a pretty fishing village. Well, we did enter into the place and headed to the car park, but that is where misfortune stuck us. There was no space available. We tried all the car parks in that village but nothing worked out, so disappointed we had to leave. Then on the spot, we decided to visit St Agnes. We chose this because this heritage site was close (of a drive) to Padstow. It was an impromptu stop for us mostly to get over our disappointment of not being able to visit Padstow, but we were pleasantly surprised when we reached this place. What a beauty nestled in a valley surrounded by magnificent hills! The driving was scary, for sure! as it quite a steep narrow road down the valley, but definitely well worth it.
 <!-- Walk towards the beach -->
 <figure>
 <figcaption style="text-align: center;">Walk towards the beach</figcaption>
@@ -73,14 +73,14 @@ This beach was pretty raw and rugged, and I think that was one of the reasons wh
 <img src="/assets/images/cornwall/rugged.jpg"
      alt="cornwall st agnes"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
-There was a short hike up one of the hills (well, it was a proper hiking path but we only covered a small part of it since there was a barrier at some distance and we decided(out of tiredness and apprehension) to stop there.
+There was a short hike up one of the hills (well, it was a proper hiking path but we only covered a small part of it since there was a barrier at some distance and we decided (out of tiredness and apprehension) to stop there.
 <figure>
-<figcaption style="text-align: center;">View from there(you can see the barrier in the right)</figcaption>
+<figcaption style="text-align: center;">View from there (you can see the barrier in the right)</figcaption>
 <img src="/assets/images/cornwall/13.jpg"
      alt="ccornwall st agnes hike"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 </figure>
-Next we headed toward Gwithian beach. I had heard that it is one of the prettiest beaches in Cornwall, hence naturally I was very excited about it. Well, it was a fine beach but nowhere as pretty as I expected it to be(as per my taste).
+Next we headed toward Gwithian beach. I had heard that it is one of the prettiest beaches in Cornwall, hence naturally I was very excited about it. Well, it was a fine beach but nowhere as pretty as I expected it to be (as per my taste).
 <img src="/assets/images/cornwall/14.jpg"
      alt="cornwall gwithian beach"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
@@ -122,7 +122,7 @@ Our airbnb hostess was a very lovely lady. She used to provide sumptuous breakfa
      alt="cornwall airbnb breakfast"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 </figure>
-After breakfast, we headed to Boscastle, which is again a small fishing village nestled in mountains. It is a very small and a cute village. A stream/river(not sure) passes in the middle of the “center” of the village with makes the ambience very charming.
+After breakfast, we headed to Boscastle, which is again a small fishing village nestled in mountains. It is a very small and a cute village. A stream/river (not sure) passes in the middle of the “center” of the village with makes the ambience very charming.
 <img src="/assets/images/cornwall/23.jpg"
      alt="cornwall boscastle walk"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
@@ -148,7 +148,7 @@ When we finally reached to the waterfall, it was even better. The waterfall is s
      alt="cornwall st nectane glen waterfall"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
 Next we headed to the Tintagel castle which is known for being the birthplace of King Arthur and for its outstanding views to sea due to the imposing height that it is build on.
-Tintagel bridge is footbridge that connects two cliffs. The height of the bridge(52 meters) can seem terrifying to some people.
+Tintagel bridge is footbridge that connects two cliffs. The height of the bridge (52 meters) can seem terrifying to some people.
 <img src="/assets/images/cornwall/bridge.jpg"
      alt="cornwall tintagel castle bridge"
      style="display: block; margin-right: auto; margin-left: auto; max-height: 700px" />
